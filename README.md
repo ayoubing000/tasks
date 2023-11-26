@@ -21,9 +21,6 @@ A simple Spring Boot application with a RESTful API.
 The API endpoint is accessible at:
 
 - `http://localhost:8080/api/messages`
-
-### Example:
-
 - GET `/api/messages`
 Returns a list of messages.
 
